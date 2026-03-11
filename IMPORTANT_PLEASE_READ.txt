@@ -1,0 +1,10 @@
+<<< IMPORTANT PLEASE READ >>>
+
+Bitbucket enforces a repository size limit, and the inclusion of the sentence-transformers/all-distilroberta-v1
+model exceeds this limit.
+
+Therefore, for future use and/or modification of the SNTClusterer, please head to Hugging Face to download the
+model into the "all-distilroberta-v1" folder.
+
+Link to the distilroberta model:
+https://huggingface.co/sentence-transformers/all-distilroberta-v1/tree/main
