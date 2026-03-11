@@ -68,6 +68,7 @@ The following are removed during preprocessing:
 
 ![Clustering Pipeline](images/mermaid-diagram-SNTC.png)
 
+```
 ServiceNow Export
         │
         ▼
@@ -95,6 +96,7 @@ Outlier Reassignment
         │
         ▼
 Final Cluster Output
+```
 
 ### Level 1 Clustering
 
